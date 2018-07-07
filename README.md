@@ -11,6 +11,12 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 ## CHANGELOG:
 
+### v0.0.5
+
+-Xorieth terrain improved
+
+-Humreth orbit fixed (finally)
+
 ### v0.0.4
 
 -Xorieth texture improved

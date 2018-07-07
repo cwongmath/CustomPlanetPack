@@ -7,6 +7,7 @@ CHANGELOG:
 v0.0.2
 -Xorieth added
 -Chasm added
+-Humreth deformity and sma changed
 
 v0.0.1
 -Cadrius added

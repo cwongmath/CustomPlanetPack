@@ -1,4 +1,4 @@
-# CustomPlanetPack 
+# CustomPlanetPack
 by cwongmath and elephantae
 
 Releases: https://github.com/cwongmath/CustomPlanetPack/releases

@@ -4,6 +4,10 @@ by cwongmath and elephantae
 This is our first collaborative planet pack for Kerbal Space Program.
 
 CHANGELOG:
+v0.0.3
+-Chasm textures improved
+-Xorieth ocean added
+
 v0.0.2
 -Xorieth added
 -Chasm added

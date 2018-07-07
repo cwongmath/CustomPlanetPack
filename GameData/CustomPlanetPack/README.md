@@ -11,6 +11,12 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 ## CHANGELOG:
 
+### v0.0.4
+
+-Xorieth texture improved
+
+-Humreth orbit changed
+
 ### v0.0.3
 
 -Chasm textures improved
@@ -23,7 +29,7 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 -Chasm added
 
--Humreth deformity and SMA changed
+-Humreth deformity and sma changed
 
 ### v0.0.1
 

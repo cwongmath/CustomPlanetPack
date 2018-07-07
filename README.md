@@ -7,6 +7,8 @@ This is our first collaborative planet pack for Kerbal Space Program.
 
 ## INSTALLATION:
 
+Unzip the GameData folder to merge with your existing KSP GameData folder.
+
 ## CHANGELOG:
 
 ### v0.0.3

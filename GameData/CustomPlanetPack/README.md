@@ -23,7 +23,7 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 -Chasm added
 
--Humreth deformity and sma changed
+-Humreth deformity and SMA changed
 
 ### v0.0.1
 

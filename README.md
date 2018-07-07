@@ -1,2 +1,4 @@
-# CustomPlanetPack
-This is my first planet pack for Kerbal Space Program.
+# CustomPlanetPack 
+by cwongmath and elephantae
+
+This is our first collaborative planet pack for Kerbal Space Program.

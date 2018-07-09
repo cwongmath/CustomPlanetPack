@@ -11,9 +11,15 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 ## CHANGELOG:
 
+### v0.0.7
+
+-Xorieth biome map added
+
+-Humreth biome bug fixed -- issue with missing Biome node
+
 ### v0.0.6
 
-Humreth, Cadrius biome maps added
+-Humreth, Cadrius biome maps added
 
 ### v0.0.5
 

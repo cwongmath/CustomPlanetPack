@@ -3,11 +3,11 @@ by cwongmath and elephantae
 
 Releases: https://github.com/cwongmath/CustomPlanetPack/releases
 
-This is our first collaborative planet pack for Kerbal Space Program.
+This is our collaborative planet pack for Kerbal Space Program.
 
 ## INSTALLATION:
 
-Unzip the GameData folder to merge with your existing KSP GameData folder.
+Unzip the GameData folder in your download and move the contents to your GameData folder.
 
 ## CHANGELOG:
 ### v0.0.9
@@ -26,7 +26,7 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 -Xorieth biome map added
 
--Humreth biome bug fixed -- issue with missing Biome node
+-Humreth biome bug fixed
 
 ### v0.0.6
 
@@ -56,7 +56,7 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 -Chasm added
 
--Humreth deformity and sma changed
+-Humreth deformity and orbit changed
 
 ### v0.0.1
 
@@ -66,4 +66,4 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 -Humreth added
 
--Humreth map filenames changed
+-Filenames fixed

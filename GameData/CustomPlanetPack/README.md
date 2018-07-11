@@ -11,6 +11,14 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 
 ## CHANGELOG:
 
+### v0.0.8
+
+-Orbit line colors altered to fit color map
+
+-Jobaneth added
+
+-Bauzer added
+
 ### v0.0.7
 
 -Xorieth biome map added

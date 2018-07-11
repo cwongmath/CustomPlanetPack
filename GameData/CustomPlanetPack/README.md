@@ -10,6 +10,13 @@ This is our collaborative planet pack for Kerbal Space Program.
 Unzip the GameData folder in your download and move the contents to your GameData folder.
 
 ## CHANGELOG:
+
+### v0.0.10
+
+-Bugfixes
+
+-Serd added
+
 ### v0.0.9
 
 -Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)

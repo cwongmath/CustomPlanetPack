@@ -12,7 +12,7 @@ Unzip the GameData folder to merge with your existing KSP GameData folder.
 ## CHANGELOG:
 ### v0.0.9
 
--Chasm gets major overhaul(heightmap, colormap, normalmap, config changes)
+-Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)
 
 ### v0.0.8
 

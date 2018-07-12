@@ -15,6 +15,8 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 -Altered time warp altitude limits
 
+-Changed descriptions for Xorieth and Humreth
+
 ### v0.0.10
 
 -Bug fixes

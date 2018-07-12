@@ -11,11 +11,15 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 ## CHANGELOG:
 
+### v0.0.11
+
+-Altered time warp altitude limits
+
 ### v0.0.10
 
--Bugfixes
+-Bug fixes
 
--Serd added
+-Serd added (Dres Overhaul)
 
 ### v0.0.9
 

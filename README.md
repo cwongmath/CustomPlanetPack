@@ -13,80 +13,80 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 ### v0.0.11
 
--TODO added
+* TODO added
 
--Altered time warp altitude limits
+* Altered time warp altitude limits
 
--Changed descriptions for Xorieth and Humreth
+* Changed descriptions for Xorieth and Humreth
 
 ### v0.0.10
 
--Bug fixes
+* Bug fixes
 
--Serd added (Dres Overhaul)
+* Serd added (Dres Overhaul)
 
 ### v0.0.9
 
--Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)
+* Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)
 
 ### v0.0.8
 
--Orbit line colors altered to fit color map
+* Orbit line colors altered to fit color map
 
--Jobaneth added
+* Jobaneth added
 
--Bauzer added
+* Bauzer added
 
 ### v0.0.7
 
--Xorieth biome map added
+* Xorieth biome map added
 
--Humreth biome bug fixed
+* Humreth biome bug fixed
 
 ### v0.0.6
 
--Humreth, Cadrius biome maps added
+* Humreth, Cadrius biome maps added
 
 ### v0.0.5
 
--Xorieth terrain improved
+* Xorieth terrain improved
 
--Humreth orbit fixed (finally)
+* Humreth orbit fixed (finally)
 
 ### v0.0.4
 
--Xorieth texture improved
+* Xorieth texture improved
 
--Humreth orbit changed
+* Humreth orbit changed
 
 ### v0.0.3
 
--LICENSE.md added
+* LICENSE.md added
 
--Chasm textures improved
+* Chasm textures improved
 
--Xorieth ocean added
+* Xorieth ocean added
 
 ### v0.0.2
 
--Xorieth added
+* Xorieth added
 
--Chasm added
+* Chasm added
 
--Humreth deformity and orbit changed
+* Humreth deformity and orbit changed
 
 ### v0.0.1
 
--Cadrius added
+* Cadrius added
 
--Cadrius atmospheric rim and rings fixed
+* Cadrius atmospheric rim and rings fixed
 
--Humreth added
+* Humreth added
 
--Filenames fixed
+* Filenames fixed
 
 ### v0.0.0
 
--README.md added
+* README.md added
 
--CustomPlanetPack created
+* CustomPlanetPack created

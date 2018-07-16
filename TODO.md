@@ -1,9 +1,9 @@
 ### TODO:
 
- - Fashion loading screens
+ * Fashion loading screens
 
- - Create KSPedia entry
+ * Create KSPedia entry
  
- - Add (possibly) a star
+ * Add (possibly) a star
  
- - Add easter eggs
+ * Add easter eggs

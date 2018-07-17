@@ -11,6 +11,12 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 ## CHANGELOG:
 
+### v0.0.12
+
+* Filepaths changed
+
+* Proxima added as a test
+
 ### v0.0.11
 
 * TODO added

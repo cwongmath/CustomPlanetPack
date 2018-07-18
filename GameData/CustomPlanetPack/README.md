@@ -19,7 +19,7 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 ### v0.0.11
 
-* TODO added
+* TODO.md added
 
 * Altered time warp altitude limits
 

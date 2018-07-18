@@ -4,8 +4,10 @@
 
  * Create KSPedia entry
  
- * Add (possibly) a star
+ * ~~Add (possibly) a star~~
  
  * Add easter eggs
  
  * Moar planets
+ 
+ * Publicity

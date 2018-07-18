@@ -13,9 +13,9 @@ Unzip the GameData folder in your download and move the contents to your GameDat
 
 ### v0.0.12
 
-* Filepaths changed
+* Oerus added
 
-* Proxima added as a test
+* Minor bugfixes
 
 ### v0.0.11
 

@@ -1,13 +1,16 @@
-### TODO:
+### TODO:						Not Started:	In Development:		Completed:
 
- * Fashion loading screens
+ * Add loading screens							XXX@elephantaeXX
 
- * Create KSPedia entry
+ * Add KSPedia entries							XXXX@democatXXXX
  
- * ~~Add (possibly) a star~~
+ * Add stars									XXX@elephantaeXX
  
- * Add easter eggs
+ * Add easter eggs				XXXXXXXXXXXX
  
- * Moar planets
+ * More planets					XXXX N/A XXX	XXXXXX N/A XXXXX	XXXX N/A XXX
  
- * Publicity
+ * Publicity					XXXXXXXXXXXX
+   * KSP Forums Thread
+   * Discord
+ 

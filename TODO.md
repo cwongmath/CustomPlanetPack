@@ -13,4 +13,10 @@
  * Publicity                    XXXXXXXXXXXX
    * KSP Forums Thread
    * Discord
+  
+ * Finalize Bauzer's orbit                      XXXXXX N/A XXXXX
+   * Add moons to Bauzer        XXXXXXXXXXXX
+   * Fix Bauzer's texture       XXXXXXXXXXXX
+ 
+ * Complete dV maps (tiny text)                 XXXXXX N/A XXXXX
  

@@ -11,11 +11,7 @@ It contains 2 new planets, 4 moons, and a star.
 
 ## INSTALLATION:
 
-Unzip the GameData folder in your download and move the contents to your KSP GameData folder.
-
-## LICENSE:
-
-This work is licensed under an MIT license as outlined at the OSI site. Visit the documentation site for more details and Attribution.
+Unzip the GameData folder in your download and move the contents to your GameData folder.
 
 ## CHANGELOG:
 

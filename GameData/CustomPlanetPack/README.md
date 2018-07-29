@@ -19,6 +19,12 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 ## CHANGELOG:
 
+### v0.0.14
+
+* Bauzer biomes added
+
+* Bauzer mountain bug fixed
+
 ### v0.0.13
 
 * Delta-V maps added

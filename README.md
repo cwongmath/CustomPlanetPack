@@ -7,8 +7,6 @@ Releases: https://github.com/cwongmath/CustomPlanetPack/releases
 
 This is our collaborative planet pack for Kerbal Space Program.
 
-It contains 2 new planets, 4 moons, and a star.
-
 ## INSTALLATION:
 
 Unzip the GameData folder in your download and move the contents to your KSP GameData folder.

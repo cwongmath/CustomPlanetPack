@@ -19,6 +19,8 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 ### v0.0.14
 
+* Scotty added
+
 * Bauzer biomes added
 
 * Bauzer mountain bug fixed

@@ -17,13 +17,23 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 ## CHANGELOG:
 
+### v0.0.15
+
+* Branch "development" created
+
+* Branch "master" is now stable branch
+
 ### v0.0.14
+
+* Scypso added
 
 * Scotty added
 
 * Bauzer biomes added
 
 * Bauzer mountain bug fixed
+
+* Minor bugfixes
 
 ### v0.0.13
 

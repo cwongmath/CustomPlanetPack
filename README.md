@@ -19,6 +19,8 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 ### v0.0.15
 
+* Added AVC version checking
+
 * Branch "development" created
 
 * Branch "master" is now stable branch

@@ -5,17 +5,29 @@ Releases: https://github.com/cwongmath/CustomPlanetPack/releases
 
 ## ABOUT:
 
-This is our collaborative planet pack for Kerbal Space Program.
+This is a planet pack for Kerbal Space Program.
 
 ## INSTALLATION:
 
-Unzip the GameData folder in your download and move the contents to your KSP GameData folder.
+1. Install Kopernicus, ModularFlightIntegrator, and ModuleManager.
+
+2. Go to the releases page, as mentioned above, and download the latest release of CPP.
+
+3. Unzip the GameData folder in your download and move the contents to your KSP GameData folder.
+
+4. Enjoy and have fun! :)
 
 ## LICENSE:
 
 This work is licensed under an MIT license as outlined at the OSI site. Visit the documentation site for more details and Attribution.
 
 ## CHANGELOG:
+
+### v0.0.16
+
+* Added agencies
+
+* Modified atmospheric rim colors
 
 ### v0.0.15
 
@@ -33,7 +45,7 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 * Bauzer biomes added
 
-* Bauzer mountain bug fixed
+* Fixed bug in which you glitched through Bauzer's terrain
 
 * Minor bugfixes
 
@@ -79,7 +91,7 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 * Xorieth biome map added
 
-* Humreth biome bug fixed
+* Fixed bug where Humreth was missing a biome
 
 ### v0.0.6
 

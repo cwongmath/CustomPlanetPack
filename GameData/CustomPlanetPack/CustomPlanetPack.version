@@ -4,6 +4,13 @@
 	"DOWNLOAD":"https://github.com/cwongmath/CustomPlanetPack/releases",
 	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/cwongmath/CustomPlanetPack/master/README.md",
 	
+	"GITHUB":
+    {
+        "USERNAME":"cwongmath",
+        "REPOSITORY":"CustomPlanetPack",
+        "ALLOW_PRE_RELEASE":true,
+    },
+	
 	"VERSION":
 	{
 		"MAJOR":0,"MINOR":0,"PATCH":15,"BUILD":0

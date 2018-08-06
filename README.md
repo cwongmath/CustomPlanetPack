@@ -15,19 +15,45 @@ This is a planet pack for Kerbal Space Program.
 
 3. Unzip the GameData folder in your download and move the contents to your KSP GameData folder.
 
-4. Enjoy and have fun! :)
+4. (Optional) Download the latest release of Sigma Binary from https://github.com/Sigma88/Sigma-Binary/releases and follow step 3 for Sigma Binary.
+
+5. Enjoy and have fun! :)
 
 ## LICENSE:
 
 This work is licensed under an MIT license as outlined at the OSI site. Visit the documentation site for more details and Attribution.
 
+## CREDITS:
+
+Credit to the following people:
+
+* Sigma88 for the custom loading screens, as well as Sigma Binary integration.
+
 ## CHANGELOG:
 
-### v0.0.16
+### v0.1.0
 
-* Added agencies
+* First pre-release
+
+* Changed Scotty's deformity
+
+* Added noise and VoronoiCraters to Scotty
+
+* Added albedo, emissivity, and maxZoom to Jobaneth
+
+* Altered Jobaneth's fadeStart and fadeEnd
+
+* Randomization of seeds
+
+* Made Scotty bouncy
+
+* Added a flag
+
+* Added an agency
 
 * Modified atmospheric rim colors
+
+* Other minor bugfixes
 
 ### v0.0.15
 
@@ -47,13 +73,17 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 * Fixed bug in which you glitched through Bauzer's terrain
 
-* Minor bugfixes
+* Other minor bugfixes
 
 ### v0.0.13
 
-* Delta-V maps added
+* Delta-V maps in development
 
-* Loading screens added
+* Loading screen software added
+
+* Oerus's corona fixed
+
+* File system organized
 
 ### v0.0.12
 
@@ -71,7 +101,7 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 ### v0.0.10
 
-* Bug fixes
+* Minor bugfixes
 
 * Serd added (Dres Overhaul)
 
@@ -101,13 +131,13 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 * Xorieth terrain improved
 
-* Humreth orbit fixed (finally)
+* Humreth orbit moved even closer to Cadrius
 
 ### v0.0.4
 
 * Xorieth texture improved
 
-* Humreth orbit changed
+* Humreth semi-major axis lowered
 
 ### v0.0.3
 
@@ -133,7 +163,7 @@ This work is licensed under an MIT license as outlined at the OSI site. Visit th
 
 * Humreth added
 
-* Filenames fixed
+* Filenames/paths fixed
 
 ### v0.0.0
 

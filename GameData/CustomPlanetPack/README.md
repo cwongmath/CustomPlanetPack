@@ -23,6 +23,16 @@ This is a planet pack for Kerbal Space Program.
 
 This work is licensed under an MIT license as outlined at the OSI site. Visit the documentation site for more details and Attribution.
 
+## KSP-MINI-AVC:
+
+This mod includes version checking using MiniAVC
+ (https://forum.kerbalspaceprogram.com/index.php?/topic/72169-13-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/ ).
+
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
+
+For a more comprehensive version checking experience, please download the KSP-AVC Plugin:
+ (https://forum.kerbalspaceprogram.com/index.php?/topic/72169-13-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/ ).
+
 ## CREDITS:
 
 Credit to the following people:

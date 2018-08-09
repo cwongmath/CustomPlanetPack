@@ -7,6 +7,16 @@ Releases: https://github.com/cwongmath/CustomPlanetPack/releases
 
 This is a planet pack for Kerbal Space Program.
 
+## FEATURES:
+
+This planet pack includes:
+
+ * Over 10 unique bodies, each with their own quirks
+ 
+ * Special biomes on certain bodies
+ 
+ * A one-pixel island
+
 ## INSTALLATION:
 
 1. Install Kopernicus, ModularFlightIntegrator, and ModuleManager.
@@ -40,6 +50,14 @@ Credit to the following people:
 * Sigma88 for the custom loading screens, as well as Sigma Binary integration.
 
 ## CHANGELOG:
+
+### v0.1.1
+
+* Added ScaledVersion - Material attributes
+
+* Changed specular to specColor
+
+* Minor bugfixes
 
 ### v0.1.0
 

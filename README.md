@@ -53,6 +53,10 @@ Credit to the following people:
 
 ### v0.1.1
 
+* Added Cadrius and Bauzer to the main menu body selection
+
+* Perfected Bauzer's fadeStart/fadeEnds
+
 * Added ScaledVersion - Material attributes
 
 * Changed specular to specColor

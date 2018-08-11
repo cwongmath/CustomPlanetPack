@@ -51,6 +51,18 @@ Credit to the following people:
 
 ## CHANGELOG:
 
+### v0.1.2
+
+* Oolee added
+
+* Altered Cadrius's pressureCurve for 17.5 atmospheres
+
+* Added Barry (test)
+
+* Altered Scotty's deformity and starting position
+
+* Fixed a grammatical error in Oerus's description
+
 ### v0.1.1
 
 * Added Cadrius and Bauzer to the main menu body selection

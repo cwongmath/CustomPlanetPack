@@ -51,6 +51,12 @@ Credit to the following people:
 
 ## CHANGELOG:
 
+### v0.1.3
+
+* Oolee's biomes added
+
+* Oolee/Eeloo compatibility with OPM and other planet packs including Eeloo added
+
 ### v0.1.2
 
 * Oolee added
@@ -63,6 +69,8 @@ Credit to the following people:
 
 * Fixed a grammatical error in Oerus's description
 
+* Added CREDITS to README.md
+
 ### v0.1.1
 
 * Added Cadrius and Bauzer to the main menu body selection
@@ -74,6 +82,8 @@ Credit to the following people:
 * Changed specular to specColor
 
 * Minor bugfixes
+
+* Added FEATURES to README.md
 
 ### v0.1.0
 
@@ -99,6 +109,8 @@ Credit to the following people:
 
 * Other minor bugfixes
 
+* Added KSP-MINI-AVC to README.md
+
 ### v0.0.15
 
 * Added AVC version checking
@@ -113,11 +125,13 @@ Credit to the following people:
 
 * Scotty added
 
-* Bauzer biomes added
+* Bauzer's biomes added
 
 * Fixed bug in which you glitched through Bauzer's terrain
 
 * Other minor bugfixes
+
+* Elaborated on INSTALLATION in README.md
 
 ### v0.0.13
 
@@ -142,6 +156,8 @@ Credit to the following people:
 * Altered time warp altitude limits
 
 * Changed descriptions for Xorieth and Humreth
+
+* Added LICENSE to README.md
 
 ### v0.0.10
 

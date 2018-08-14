@@ -47,186 +47,186 @@ For a more comprehensive version checking experience, please download the KSP-AV
 
 Credit to the following people:
 
-* Sigma88 for the custom loading screens, as well as Sigma Binary integration.
+ * Sigma88 for the custom loading screens, as well as Sigma Binary integration.
 
 ## CHANGELOG:
 
 ### v0.1.3
 
-* Oolee's biomes added
+ * Oolee's biomes added
 
-* Oolee/Eeloo compatibility with OPM and other planet packs including Eeloo added
+ * Oolee/Eeloo compatibility with OPM and other planet packs including Eeloo added
 
 ### v0.1.2
 
-* Oolee added
+ * Oolee added
 
-* Altered Cadrius's pressureCurve for 17.5 atmospheres
+ * Altered Cadrius's pressureCurve for 17.5 atmospheres
 
-* Added Barry (test)
+ * Added Barry (test)
 
-* Altered Scotty's deformity and starting position
+ * Altered Scotty's deformity and starting position
 
-* Fixed a grammatical error in Oerus's description
+ * Fixed a grammatical error in Oerus's description
 
-* Added CREDITS to README.md
+ * Added CREDITS to README.md
 
 ### v0.1.1
 
-* Added Cadrius and Bauzer to the main menu body selection
+ * Added Cadrius and Bauzer to the main menu body selection
 
-* Perfected Bauzer's fadeStart/fadeEnds
+ * Perfected Bauzer's fadeStart/fadeEnds
 
-* Added ScaledVersion - Material attributes
+ * Added ScaledVersion - Material attributes
 
-* Changed specular to specColor
+ * Changed specular to specColor
 
-* Minor bugfixes
+ * Minor bugfixes
 
-* Added FEATURES to README.md
+ * Added FEATURES to README.md
 
 ### v0.1.0
 
-* First pre-release
+ * First pre-release
 
-* Changed Scotty's deformity
+ * Changed Scotty's deformity
 
-* Added noise and VoronoiCraters to Scotty
+ * Added noise and VoronoiCraters to Scotty
 
-* Added albedo, emissivity, and maxZoom to Jobaneth
+ * Added albedo, emissivity, and maxZoom to Jobaneth
 
-* Altered Jobaneth's fadeStart and fadeEnd
+ * Altered Jobaneth's fadeStart and fadeEnd
 
-* Randomization of seeds
+ * Randomization of seeds
 
-* Made Scotty bouncy
+ * Made Scotty bouncy
 
-* Added a flag
+ * Added a flag
 
-* Added an agency
+ * Added an agency
 
-* Modified atmospheric rim colors
+ * Modified atmospheric rim colors
 
-* Other minor bugfixes
+ * Other minor bugfixes
 
-* Added KSP-MINI-AVC to README.md
+ * Added KSP-MINI-AVC to README.md
 
 ### v0.0.15
 
-* Added AVC version checking
+ * Added AVC version checking
 
-* Branch "development" created
+ * Branch "development" created
 
-* Branch "master" is now stable branch
+ * Branch "master" is now stable branch
 
 ### v0.0.14
 
-* Scypso added
+ * Scypso added
 
-* Scotty added
+ * Scotty added
 
-* Bauzer's biomes added
+ * Bauzer's biomes added
 
-* Fixed bug in which you glitched through Bauzer's terrain
+ * Fixed bug in which you glitched through Bauzer's terrain
 
-* Other minor bugfixes
+ * Other minor bugfixes
 
-* Elaborated on INSTALLATION in README.md
+ * Elaborated on INSTALLATION in README.md
 
 ### v0.0.13
 
-* Delta-V maps in development
+ * Delta-V maps in development
 
-* Loading screen software added
+ * Loading screen software added
 
-* Oerus's corona fixed
+ * Oerus's corona fixed
 
-* File system organized
+ * File system organized
 
 ### v0.0.12
 
-* Oerus added
+ * Oerus added
 
-* Minor bugfixes
+ * Minor bugfixes
 
 ### v0.0.11
 
-* TODO.md added
+ * TODO.md added
 
-* Altered time warp altitude limits
+ * Altered time warp altitude limits
 
-* Changed descriptions for Xorieth and Humreth
+ * Changed descriptions for Xorieth and Humreth
 
-* Added LICENSE to README.md
+ * Added LICENSE to README.md
 
 ### v0.0.10
 
-* Minor bugfixes
+ * Minor bugfixes
 
-* Serd added (Dres Overhaul)
+ * Serd added (Dres Overhaul)
 
 ### v0.0.9
 
-* Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)
+ * Chasm gets major overhaul(heightmap, colormap, normalmap, config changes, biomes)
 
 ### v0.0.8
 
-* Orbit line colors altered to fit color map
+ * Orbit line colors altered to fit color map
 
-* Jobaneth added
+ * Jobaneth added
 
-* Bauzer added
+ * Bauzer added
 
 ### v0.0.7
 
-* Xorieth biome map added
+ * Xorieth biome map added
 
-* Fixed bug where Humreth was missing a biome
+ * Fixed bug where Humreth was missing a biome
 
 ### v0.0.6
 
-* Humreth, Cadrius biome maps added
+ * Humreth, Cadrius biome maps added
 
 ### v0.0.5
 
-* Xorieth terrain improved
+ * Xorieth terrain improved
 
-* Humreth orbit moved even closer to Cadrius
+ * Humreth orbit moved even closer to Cadrius
 
 ### v0.0.4
 
-* Xorieth texture improved
+ * Xorieth texture improved
 
-* Humreth semi-major axis lowered
+ * Humreth semi-major axis lowered
 
 ### v0.0.3
 
-* LICENSE.md added
+ * LICENSE.md added
 
-* Chasm textures improved
+ * Chasm textures improved
 
-* Xorieth ocean added
+ * Xorieth ocean added
 
 ### v0.0.2
 
-* Xorieth added
+ * Xorieth added
 
-* Chasm added
+ * Chasm added
 
-* Humreth deformity and orbit changed
+ * Humreth deformity and orbit changed
 
 ### v0.0.1
 
-* Cadrius added
+ * Cadrius added
 
-* Cadrius atmospheric rim and rings fixed
+ * Cadrius atmospheric rim and rings fixed
 
-* Humreth added
+ * Humreth added
 
-* Filenames/paths fixed
+ * Filenames/paths fixed
 
 ### v0.0.0
 
-* README.md added
+ * README.md added
 
-* CustomPlanetPack created
+ * CustomPlanetPack created

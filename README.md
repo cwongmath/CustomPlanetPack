@@ -53,6 +53,8 @@ Credit to the following people:
 
 ### v0.1.3
 
+ * Jobaneth's biomes updated for displayName
+
  * Oolee's biomes added
 
  * Oolee/Eeloo compatibility with OPM and other planet packs including Eeloo added

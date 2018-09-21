@@ -57,7 +57,7 @@ Credit to the following people:
 
  * Oolee's biomes added
 
- * Oolee/Eeloo compatibility with OPM and other planet packs including Eeloo added
+ * Oolee/Eeloo compatibility added with OPM and other planet packs including Eeloo
 
 ### v0.1.2
 

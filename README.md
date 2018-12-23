@@ -5,7 +5,7 @@ Releases: https://github.com/cwongmath/CustomPlanetPack/releases
 
 ## ABOUT:
 
-This is a planet pack for Kerbal Space Program.
+This is a unique planet pack for Kerbal Space Program.
 
 ## FEATURES:
 
@@ -50,6 +50,26 @@ Credit to the following people:
  * Sigma88 for the custom loading screens, as well as Sigma Binary integration.
 
 ## CHANGELOG:
+
+### v0.1.6
+
+ * Normalmaps fixed for sunlight
+ 
+ * Updated .version file for 1.5.x
+ 
+ * Added Scotty's orbital period
+ 
+ * Removed Cube as a random main menu body - became too colorful
+
+### v0.1.5
+
+ * Oolee moved to Inverse Planet Pack; as a result, Sigma Binary is unnecessary
+ 
+ * Barry maps, biomes
+
+### v0.1.4
+
+ * Minor cleanup, bugfixes
 
 ### v0.1.3
 

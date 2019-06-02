@@ -1,0 +1,776 @@
+<project author="darkbull" blog="http://darkbull.net">
+  <node name="CustomPlanetPack" isDir="True" isExpand="True">
+    <node name=".git" isDir="True" isExpand="False">
+      <node name="hooks" isDir="True" isExpand="False">
+        <node name="applypatch-msg.sample" isDir="False" isExpand="False" />
+        <node name="commit-msg.sample" isDir="False" isExpand="False" />
+        <node name="fsmonitor-watchman.sample" isDir="False" isExpand="False" />
+        <node name="post-update.sample" isDir="False" isExpand="False" />
+        <node name="pre-applypatch.sample" isDir="False" isExpand="False" />
+        <node name="pre-commit.sample" isDir="False" isExpand="False" />
+        <node name="prepare-commit-msg.sample" isDir="False" isExpand="False" />
+        <node name="pre-push.sample" isDir="False" isExpand="False" />
+        <node name="pre-rebase.sample" isDir="False" isExpand="False" />
+        <node name="pre-receive.sample" isDir="False" isExpand="False" />
+        <node name="update.sample" isDir="False" isExpand="False" />
+      </node>
+      <node name="info" isDir="True" isExpand="False">
+        <node name="exclude" isDir="False" isExpand="False" />
+        <node name="refs" isDir="False" isExpand="False" />
+      </node>
+      <node name="logs" isDir="True" isExpand="False">
+        <node name="refs" isDir="True" isExpand="False">
+          <node name="heads" isDir="True" isExpand="False">
+            <node name="development" isDir="False" isExpand="False" />
+            <node name="master" isDir="False" isExpand="False" />
+          </node>
+          <node name="remotes" isDir="True" isExpand="False">
+            <node name="origin" isDir="True" isExpand="False">
+              <node name="development" isDir="False" isExpand="False" />
+              <node name="HEAD" isDir="False" isExpand="False" />
+              <node name="master" isDir="False" isExpand="False" />
+            </node>
+          </node>
+        </node>
+        <node name="HEAD" isDir="False" isExpand="False" />
+      </node>
+      <node name="objects" isDir="True" isExpand="False">
+        <node name="00" isDir="True" isExpand="False">
+          <node name="98e278f1ac0000f92cf3e5eaf234a08244c087" isDir="False" isExpand="False" />
+        </node>
+        <node name="05" isDir="True" isExpand="False">
+          <node name="7091e2cd18ff0a891578a29c781fb474952c20" isDir="False" isExpand="False" />
+        </node>
+        <node name="07" isDir="True" isExpand="False">
+          <node name="0592d8b86e04b3a5e71e4a3b761d08c6d0e9ab" isDir="False" isExpand="False" />
+        </node>
+        <node name="09" isDir="True" isExpand="False">
+          <node name="e1818c7f97b3f2760bcd4ff2f1f2d1e156719d" isDir="False" isExpand="False" />
+        </node>
+        <node name="0b" isDir="True" isExpand="False">
+          <node name="68410259cfaa5f1a1f73a311bec3382f802a61" isDir="False" isExpand="False" />
+          <node name="c751cc041aba262dd710b818a6aaea1cf1dabd" isDir="False" isExpand="False" />
+        </node>
+        <node name="0d" isDir="True" isExpand="False">
+          <node name="b4a6b40c35b1dded1bcca9f17408cf848c9fcd" isDir="False" isExpand="False" />
+        </node>
+        <node name="0e" isDir="True" isExpand="False">
+          <node name="935acc59099ec8c398579582c4f51a85b754bc" isDir="False" isExpand="False" />
+        </node>
+        <node name="0f" isDir="True" isExpand="False">
+          <node name="a26630cbf6e17346f3427b33798a3cbcbc5a63" isDir="False" isExpand="False" />
+        </node>
+        <node name="10" isDir="True" isExpand="False">
+          <node name="7b962738fdea12d43d723a5654f585bacd5603" isDir="False" isExpand="False" />
+          <node name="9da71c436409d853e6aebf1d0eb583c7fb249a" isDir="False" isExpand="False" />
+        </node>
+        <node name="12" isDir="True" isExpand="False">
+          <node name="c3916b3a306c7c9705015a9243e6f3c4f86845" isDir="False" isExpand="False" />
+        </node>
+        <node name="15" isDir="True" isExpand="False">
+          <node name="8bf49f205d6322a9bdd4d965b9bea1a84fd6dd" isDir="False" isExpand="False" />
+        </node>
+        <node name="16" isDir="True" isExpand="False">
+          <node name="ab92ab100f71be3a8484131b6df96cf4c61bb4" isDir="False" isExpand="False" />
+        </node>
+        <node name="18" isDir="True" isExpand="False">
+          <node name="328afd412aacf350d134f8d02a7514b96503d7" isDir="False" isExpand="False" />
+          <node name="dc4593bc1bb2813f9ac78584125c730729630d" isDir="False" isExpand="False" />
+        </node>
+        <node name="1b" isDir="True" isExpand="False">
+          <node name="4316b5ecb899e795f10554a07d54144111f082" isDir="False" isExpand="False" />
+          <node name="b11db10ef00b4d3e6c5a626c884b147fc24b16" isDir="False" isExpand="False" />
+        </node>
+        <node name="1c" isDir="True" isExpand="False">
+          <node name="131b342cbd959e11ee79c9f713ace27eda81d9" isDir="False" isExpand="False" />
+          <node name="cffc2ff93e9af8829dc1afaa28cae67cb039d8" isDir="False" isExpand="False" />
+        </node>
+        <node name="1d" isDir="True" isExpand="False">
+          <node name="1ecfc4351c4239e183b17c76ce749b8a341a2c" isDir="False" isExpand="False" />
+          <node name="40f45984891b0ef521106ca837ff8c1e4da763" isDir="False" isExpand="False" />
+        </node>
+        <node name="20" isDir="True" isExpand="False">
+          <node name="edc24e6c6a71b012619ef8d61a7eafda98bbe1" isDir="False" isExpand="False" />
+          <node name="f4edf706b90808ea0873b89a66224a94210afe" isDir="False" isExpand="False" />
+        </node>
+        <node name="23" isDir="True" isExpand="False">
+          <node name="b1c02381277b2b88174507dd4fd6e4ea031a4f" isDir="False" isExpand="False" />
+        </node>
+        <node name="24" isDir="True" isExpand="False">
+          <node name="20c53adff0851e9f99f88520f0edff5f7ee0f7" isDir="False" isExpand="False" />
+          <node name="624fbb453a502de6562092d042dbe7f06002b4" isDir="False" isExpand="False" />
+        </node>
+        <node name="29" isDir="True" isExpand="False">
+          <node name="a59ec171ad776cc49166b56332c7ffafb59c20" isDir="False" isExpand="False" />
+          <node name="b628f3bbe3e006859746ac1ac084548060ccdf" isDir="False" isExpand="False" />
+        </node>
+        <node name="2b" isDir="True" isExpand="False">
+          <node name="c0e5abdf4d511f52106bbe8340341cbfa114b4" isDir="False" isExpand="False" />
+        </node>
+        <node name="2c" isDir="True" isExpand="False">
+          <node name="f5c9ffcd146c29459d7071dc340a6304c922ee" isDir="False" isExpand="False" />
+        </node>
+        <node name="2e" isDir="True" isExpand="False">
+          <node name="a1a5fe97bff6b7705cecd3d4e7b746964b6ffb" isDir="False" isExpand="False" />
+        </node>
+        <node name="30" isDir="True" isExpand="False">
+          <node name="f15990fc09c781e37d763c12b098bc1dccf373" isDir="False" isExpand="False" />
+        </node>
+        <node name="31" isDir="True" isExpand="False">
+          <node name="9f60c4d34c53398544865a85ecd06fccc3bf74" isDir="False" isExpand="False" />
+        </node>
+        <node name="33" isDir="True" isExpand="False">
+          <node name="6fa5eb94a00f7299b7063a8687e40ae3029c41" isDir="False" isExpand="False" />
+        </node>
+        <node name="35" isDir="True" isExpand="False">
+          <node name="26f016d723d913d23819e8c98ec5cbb3db3847" isDir="False" isExpand="False" />
+          <node name="a159c0f5ef4ed52ccacdf92d0499c35e9a7ac1" isDir="False" isExpand="False" />
+        </node>
+        <node name="36" isDir="True" isExpand="False">
+          <node name="e42de354cc3aed48cbbfe572c47feb51010272" isDir="False" isExpand="False" />
+        </node>
+        <node name="39" isDir="True" isExpand="False">
+          <node name="50b802db51de229c93337e6db6aaf1ee94fb29" isDir="False" isExpand="False" />
+        </node>
+        <node name="3a" isDir="True" isExpand="False">
+          <node name="e0a04dc5f568cf4920d2d2723f6639a4cb55c0" isDir="False" isExpand="False" />
+        </node>
+        <node name="3c" isDir="True" isExpand="False">
+          <node name="21de18921cc0215414686ad559aaa224f1082b" isDir="False" isExpand="False" />
+          <node name="ecac2d6cad9fe7e411e7b3aeaae7703ebf39d3" isDir="False" isExpand="False" />
+        </node>
+        <node name="3d" isDir="True" isExpand="False">
+          <node name="54f9ab3a0ce6e9f0f02478087f69ff7ba4c071" isDir="False" isExpand="False" />
+          <node name="7f7ffbb19d8f1a8905212d71067899d7157668" isDir="False" isExpand="False" />
+        </node>
+        <node name="41" isDir="True" isExpand="False">
+          <node name="b60133895a8fe9b1b52dc3762f451c5935364f" isDir="False" isExpand="False" />
+        </node>
+        <node name="42" isDir="True" isExpand="False">
+          <node name="2dbab9d158507e306bb827f82ce5d92933f4aa" isDir="False" isExpand="False" />
+        </node>
+        <node name="43" isDir="True" isExpand="False">
+          <node name="93d37374fa1fc75d4c5d81dbc7092524aa923a" isDir="False" isExpand="False" />
+        </node>
+        <node name="45" isDir="True" isExpand="False">
+          <node name="96775ae80772872f91ba6ae982ff7bc436b98f" isDir="False" isExpand="False" />
+        </node>
+        <node name="46" isDir="True" isExpand="False">
+          <node name="61699269da21119835aba4466ac3ba064e89f1" isDir="False" isExpand="False" />
+        </node>
+        <node name="47" isDir="True" isExpand="False">
+          <node name="bbc02b6d90255485f3f11eabad2b4bf518518a" isDir="False" isExpand="False" />
+        </node>
+        <node name="48" isDir="True" isExpand="False">
+          <node name="3e03b03d23fc049b9b663fc5056348f9c67a7a" isDir="False" isExpand="False" />
+        </node>
+        <node name="49" isDir="True" isExpand="False">
+          <node name="2f67ca1dc5bf1d64434a80481e7ef3e7062658" isDir="False" isExpand="False" />
+          <node name="e21889f5fe5d0ef4b0c6f7bee4edd797318d28" isDir="False" isExpand="False" />
+          <node name="fd1e5359e85a3547d00e47ecb90cb96b16a1b8" isDir="False" isExpand="False" />
+        </node>
+        <node name="4a" isDir="True" isExpand="False">
+          <node name="bfd6d471f74a4d63727da86785bcf7486532aa" isDir="False" isExpand="False" />
+          <node name="e78db919d8bb215d5465b97f36f2a78d4c1e99" isDir="False" isExpand="False" />
+          <node name="e8a41954870cb01d0cd6f4a94c743f82cfeb49" isDir="False" isExpand="False" />
+        </node>
+        <node name="4d" isDir="True" isExpand="False">
+          <node name="65ac53dc60e21cd43d922a3960d54d92794277" isDir="False" isExpand="False" />
+          <node name="e90e7620de5860329b3f9ce13e0c14bda29deb" isDir="False" isExpand="False" />
+        </node>
+        <node name="4e" isDir="True" isExpand="False">
+          <node name="c60090e0d5866ad22731fe730edb539e42ae8c" isDir="False" isExpand="False" />
+        </node>
+        <node name="52" isDir="True" isExpand="False">
+          <node name="bca12d7c939e36441249bf57f0f432dc23972e" isDir="False" isExpand="False" />
+          <node name="dc7563f64a0174f976c56f28abcd3ab625421f" isDir="False" isExpand="False" />
+        </node>
+        <node name="53" isDir="True" isExpand="False">
+          <node name="d30e33d941b31bb5e97ee941dfc304ccbfbc3e" isDir="False" isExpand="False" />
+          <node name="ec994032a3aeb85d91b713e5e7da3655837288" isDir="False" isExpand="False" />
+          <node name="ee03913965b2418728d8c1cc44ae420cb50bcc" isDir="False" isExpand="False" />
+        </node>
+        <node name="54" isDir="True" isExpand="False">
+          <node name="c72beacf63effaee275a93c7067b62f477192e" isDir="False" isExpand="False" />
+        </node>
+        <node name="56" isDir="True" isExpand="False">
+          <node name="0c7ac9bd9fc2327eaba45957c7f826267ee7d5" isDir="False" isExpand="False" />
+          <node name="77a1cdef5a1f08486c2a2ac0a97306fd87c0df" isDir="False" isExpand="False" />
+          <node name="918b858ae396cf150a561a782d5f5babcad584" isDir="False" isExpand="False" />
+          <node name="9af1f80ef82dcc79c5c3064d34a0b9bf09a14c" isDir="False" isExpand="False" />
+        </node>
+        <node name="57" isDir="True" isExpand="False">
+          <node name="baa57719c2a0695324490f47cee0e94d9bcdd3" isDir="False" isExpand="False" />
+        </node>
+        <node name="5a" isDir="True" isExpand="False">
+          <node name="0e906600b7297b7e6fe58337cac586b6c64569" isDir="False" isExpand="False" />
+          <node name="83c9b808812d628a5190ddd31467c26fbeec2d" isDir="False" isExpand="False" />
+        </node>
+        <node name="5c" isDir="True" isExpand="False">
+          <node name="5c165ea9b99706496977e8f5ce5f0d430bf3c7" isDir="False" isExpand="False" />
+        </node>
+        <node name="5f" isDir="True" isExpand="False">
+          <node name="985b3b7558efec6c2bbd015aecaf1bfbbeebb5" isDir="False" isExpand="False" />
+        </node>
+        <node name="60" isDir="True" isExpand="False">
+          <node name="de3d13e17a3f25bb9a2058f105de99ce871fe9" isDir="False" isExpand="False" />
+        </node>
+        <node name="61" isDir="True" isExpand="False">
+          <node name="b2c45fbac51fbcc70980170e9cd27257871aec" isDir="False" isExpand="False" />
+          <node name="b601c4f00ed2170dd086d973e30deb8f6696db" isDir="False" isExpand="False" />
+        </node>
+        <node name="63" isDir="True" isExpand="False">
+          <node name="39d4a7ba57feb318faf785dda64d7b95073855" isDir="False" isExpand="False" />
+        </node>
+        <node name="64" isDir="True" isExpand="False">
+          <node name="22bad27219b19b79945deab81bd3b5d3ce1fb7" isDir="False" isExpand="False" />
+        </node>
+        <node name="65" isDir="True" isExpand="False">
+          <node name="300770a23cd3a9f2d6ecb62d8b37c9b1c992b3" isDir="False" isExpand="False" />
+          <node name="645826040df1ea16d28aa7c23b859f73ca9509" isDir="False" isExpand="False" />
+        </node>
+        <node name="68" isDir="True" isExpand="False">
+          <node name="a68c4cdc3421738a01457f853c02a302a3a064" isDir="False" isExpand="False" />
+          <node name="f2579f54edd47b3d8a6f02724c065557d452c4" isDir="False" isExpand="False" />
+        </node>
+        <node name="6a" isDir="True" isExpand="False">
+          <node name="2c8dc62ee2008f03c122063cc4cf579c2619a9" isDir="False" isExpand="False" />
+        </node>
+        <node name="6d" isDir="True" isExpand="False">
+          <node name="152301162c26ddce8faed85171c51ae8f94257" isDir="False" isExpand="False" />
+        </node>
+        <node name="6e" isDir="True" isExpand="False">
+          <node name="9d60da8ffcf8886020aa37dfd189b2b7e11e3d" isDir="False" isExpand="False" />
+          <node name="b64fe36a548d9d5834a16a02babc930f8b60c1" isDir="False" isExpand="False" />
+        </node>
+        <node name="71" isDir="True" isExpand="False">
+          <node name="3ff01e6f8569aedf7dfc696017ef73d7a09165" isDir="False" isExpand="False" />
+        </node>
+        <node name="72" isDir="True" isExpand="False">
+          <node name="c0846e3326d0c34e9536e9d2c6b2cf0bd97c38" isDir="False" isExpand="False" />
+        </node>
+        <node name="73" isDir="True" isExpand="False">
+          <node name="93f7944ee3068f0650bb8f150a3a727da4d3e9" isDir="False" isExpand="False" />
+          <node name="e9bcb24f2e115bbceef2a3138923da9c146523" isDir="False" isExpand="False" />
+        </node>
+        <node name="78" isDir="True" isExpand="False">
+          <node name="08f0b64a965889902a0afa3f17acb03934e46e" isDir="False" isExpand="False" />
+          <node name="e36e64dcb2bbd678697fc197c0d0e5702a6fc7" isDir="False" isExpand="False" />
+        </node>
+        <node name="7c" isDir="True" isExpand="False">
+          <node name="24a5bcdc25094679bcc6864a37f2b97c0b28fc" isDir="False" isExpand="False" />
+        </node>
+        <node name="83" isDir="True" isExpand="False">
+          <node name="488980bdb0a07d860de210665283758290869c" isDir="False" isExpand="False" />
+          <node name="fea12e0d707bac76a7068115c8150a143efb99" isDir="False" isExpand="False" />
+        </node>
+        <node name="89" isDir="True" isExpand="False">
+          <node name="1fb9575cd78f29986bbbb649016c08549f80f9" isDir="False" isExpand="False" />
+          <node name="9eda41f17758cb3661d078e5addedb6051b8df" isDir="False" isExpand="False" />
+        </node>
+        <node name="8a" isDir="True" isExpand="False">
+          <node name="48492b3d77916cc4c55ca2479fe07cd695ffc2" isDir="False" isExpand="False" />
+          <node name="fdb937f0f7c04e217ce91c9c65dd7cc09e57de" isDir="False" isExpand="False" />
+        </node>
+        <node name="8b" isDir="True" isExpand="False">
+          <node name="13b189efa10f204cbf3815802407037c7288a8" isDir="False" isExpand="False" />
+          <node name="e4a99ed97863c1d6b62fe23ba0dc4b97979573" isDir="False" isExpand="False" />
+        </node>
+        <node name="8d" isDir="True" isExpand="False">
+          <node name="67824af1f7e63fc3328d70467c5cff70136d72" isDir="False" isExpand="False" />
+        </node>
+        <node name="8e" isDir="True" isExpand="False">
+          <node name="0951d30c33046fa624f88916676833bb174e7e" isDir="False" isExpand="False" />
+          <node name="0fd7cd4ebde89f1f6014fd50872b90f2c6beb0" isDir="False" isExpand="False" />
+        </node>
+        <node name="8f" isDir="True" isExpand="False">
+          <node name="8b57b313f7f351665dfa8bec00d7081cb501f0" isDir="False" isExpand="False" />
+        </node>
+        <node name="91" isDir="True" isExpand="False">
+          <node name="0b34e1e5200e17c196a7f9c447ca96be765ac7" isDir="False" isExpand="False" />
+        </node>
+        <node name="92" isDir="True" isExpand="False">
+          <node name="54aac61fdfb0bd525c4eec5cb173f353f73dda" isDir="False" isExpand="False" />
+          <node name="6abfebeccbf0bde94ded193ccefb0eb5c6cbac" isDir="False" isExpand="False" />
+          <node name="d517a91fa164665844be1441b7f023ad8b70d7" isDir="False" isExpand="False" />
+        </node>
+        <node name="94" isDir="True" isExpand="False">
+          <node name="2388106eaee86328fed745bb2e47f225bbbabd" isDir="False" isExpand="False" />
+        </node>
+        <node name="96" isDir="True" isExpand="False">
+          <node name="7e3cea6d2770271142eab21f9f46823e304653" isDir="False" isExpand="False" />
+          <node name="896d9ce5a04afd50f13b443998c021fea91d66" isDir="False" isExpand="False" />
+        </node>
+        <node name="97" isDir="True" isExpand="False">
+          <node name="a66b73300235c5661abfa1c5c87adc82ba69d4" isDir="False" isExpand="False" />
+        </node>
+        <node name="98" isDir="True" isExpand="False">
+          <node name="8f79de53b2258e6e19534373a1c61131105a14" isDir="False" isExpand="False" />
+        </node>
+        <node name="9a" isDir="True" isExpand="False">
+          <node name="7d3f9141975df619503fd5953d2d8c63d01de4" isDir="False" isExpand="False" />
+        </node>
+        <node name="9b" isDir="True" isExpand="False">
+          <node name="0b3b67f6369e297d73a340ce5131f782444f1e" isDir="False" isExpand="False" />
+          <node name="a71bacce3fb3f245f213d570ac4a3368ebe1a3" isDir="False" isExpand="False" />
+        </node>
+        <node name="9c" isDir="True" isExpand="False">
+          <node name="3217e4409673473c5aea0a7e30b9bcd5a56a0b" isDir="False" isExpand="False" />
+        </node>
+        <node name="9d" isDir="True" isExpand="False">
+          <node name="1c08ab94cac0c347224c4a04003f53ab4c83b5" isDir="False" isExpand="False" />
+          <node name="e4806d5eb653bd883b497dc5ec1c096bf41607" isDir="False" isExpand="False" />
+        </node>
+        <node name="9e" isDir="True" isExpand="False">
+          <node name="a75f2e0db3626da482e3edc0622218f4620cc6" isDir="False" isExpand="False" />
+        </node>
+        <node name="9f" isDir="True" isExpand="False">
+          <node name="863a99093360cc87af2dcf214a5d72121c15dd" isDir="False" isExpand="False" />
+        </node>
+        <node name="a2" isDir="True" isExpand="False">
+          <node name="aa4b782a72d3e5315903614b583c6115a6a486" isDir="False" isExpand="False" />
+          <node name="c17737c2ed57191aa4e1f88ac3a31999337983" isDir="False" isExpand="False" />
+          <node name="f4420ee489303e6b62a940655673ae25fad3dd" isDir="False" isExpand="False" />
+        </node>
+        <node name="a5" isDir="True" isExpand="False">
+          <node name="9e1a8fa8d2943b557a33e650e3c3b5ecf3decf" isDir="False" isExpand="False" />
+          <node name="b743ee9825f4dd75e833652a951d3b598adc95" isDir="False" isExpand="False" />
+        </node>
+        <node name="a6" isDir="True" isExpand="False">
+          <node name="bffe46ee7133a2dc1dbb9b3798f09fb4c9c2f4" isDir="False" isExpand="False" />
+          <node name="f3e57ebc9387a4a97a5c80c0a7edc07e0dc10c" isDir="False" isExpand="False" />
+        </node>
+        <node name="a7" isDir="True" isExpand="False">
+          <node name="9f9236f389a67b9efa6edeeab5c620cbf26729" isDir="False" isExpand="False" />
+          <node name="f0c5a9a795c6ca71f72e1e334fe799c45b8205" isDir="False" isExpand="False" />
+        </node>
+        <node name="a8" isDir="True" isExpand="False">
+          <node name="ad823e6ca26f2abd765715bc4ee97dcee0f626" isDir="False" isExpand="False" />
+          <node name="c8742487dc0136b1f5fbdd951381f5005b2240" isDir="False" isExpand="False" />
+        </node>
+        <node name="a9" isDir="True" isExpand="False">
+          <node name="2be0fe87780718b74742bd45a59ee3ab3be0d8" isDir="False" isExpand="False" />
+        </node>
+        <node name="aa" isDir="True" isExpand="False">
+          <node name="92222504f5935c979330b7e410a4e7ade91240" isDir="False" isExpand="False" />
+        </node>
+        <node name="ac" isDir="True" isExpand="False">
+          <node name="afad655f798f007bddc14f1b10fd34d92d676f" isDir="False" isExpand="False" />
+        </node>
+        <node name="ad" isDir="True" isExpand="False">
+          <node name="04250d93314db4d63ff5dc064b39485ca74ac0" isDir="False" isExpand="False" />
+        </node>
+        <node name="ae" isDir="True" isExpand="False">
+          <node name="0887193d7a0a21cdeff4d5933a88380e0edfaa" isDir="False" isExpand="False" />
+        </node>
+        <node name="af" isDir="True" isExpand="False">
+          <node name="60e98f5c73b48717b2580e5948077115599814" isDir="False" isExpand="False" />
+          <node name="6ef1fdd3a29ebac07c4d9a2a141707d7dd112b" isDir="False" isExpand="False" />
+        </node>
+        <node name="b0" isDir="True" isExpand="False">
+          <node name="3d32f402114a388e5f59dd3396d65ee18c716f" isDir="False" isExpand="False" />
+          <node name="ec064d00b2d64a6531ba8d810563e4309a5401" isDir="False" isExpand="False" />
+          <node name="eecd4f4b12c6254d77583280bf3e5a7c1f132d" isDir="False" isExpand="False" />
+        </node>
+        <node name="b1" isDir="True" isExpand="False">
+          <node name="7d053e92fb6ea4157517486aee02bbd05f777a" isDir="False" isExpand="False" />
+          <node name="9b9b2e6764eb73ec03422ef6177bd2e490bf05" isDir="False" isExpand="False" />
+        </node>
+        <node name="b3" isDir="True" isExpand="False">
+          <node name="0278a367340d9958847e82a0cfeb8dfbaff1fd" isDir="False" isExpand="False" />
+        </node>
+        <node name="b4" isDir="True" isExpand="False">
+          <node name="310f4d53659bbc7c71cd8d1178e822568cce36" isDir="False" isExpand="False" />
+        </node>
+        <node name="b6" isDir="True" isExpand="False">
+          <node name="0e426eea1e1b4de34b713a60f1bca803b3255c" isDir="False" isExpand="False" />
+          <node name="139ec53ed257d0651ad700e1b113d8bb63604e" isDir="False" isExpand="False" />
+          <node name="2570eda02810bd390cb6e64f5a33d12aba0434" isDir="False" isExpand="False" />
+        </node>
+        <node name="b8" isDir="True" isExpand="False">
+          <node name="38193abf5eede6a3efbdd87d7c979c967d5751" isDir="False" isExpand="False" />
+        </node>
+        <node name="b9" isDir="True" isExpand="False">
+          <node name="4c43d103d9ebb0a4dd584abc6b81dfbfef0bc0" isDir="False" isExpand="False" />
+        </node>
+        <node name="bb" isDir="True" isExpand="False">
+          <node name="08267f87f61ff76aa62ad1ae1f287c0479b825" isDir="False" isExpand="False" />
+          <node name="685a72677c21bba845aa99b399571c8a3c3254" isDir="False" isExpand="False" />
+        </node>
+        <node name="bd" isDir="True" isExpand="False">
+          <node name="2870c9bc1f3cdcb1129e6ded5b0331305b92af" isDir="False" isExpand="False" />
+          <node name="c649455b2ec14723fa983ff0d186b20997a9b1" isDir="False" isExpand="False" />
+        </node>
+        <node name="bf" isDir="True" isExpand="False">
+          <node name="d8faee01ff14e8e8e079dcce256358ec81dcc5" isDir="False" isExpand="False" />
+        </node>
+        <node name="c0" isDir="True" isExpand="False">
+          <node name="97ff9b0629d4d64dd32f1392aaf78e505bab9c" isDir="False" isExpand="False" />
+        </node>
+        <node name="c3" isDir="True" isExpand="False">
+          <node name="851479181f499ca7133d4bb829e887e5d0ceea" isDir="False" isExpand="False" />
+        </node>
+        <node name="c4" isDir="True" isExpand="False">
+          <node name="1c68d6d93cea83d2cc4c34d1a304eb8afdb012" isDir="False" isExpand="False" />
+        </node>
+        <node name="c7" isDir="True" isExpand="False">
+          <node name="6d879805e04344e8b91e32efe7ee624ecc3e77" isDir="False" isExpand="False" />
+        </node>
+        <node name="c8" isDir="True" isExpand="False">
+          <node name="3ec73d708da942bf80a796d09131251bd00c74" isDir="False" isExpand="False" />
+          <node name="b57eeeb1877b40efcf272755e7cc16a9435759" isDir="False" isExpand="False" />
+        </node>
+        <node name="cc" isDir="True" isExpand="False">
+          <node name="90bf587a8f37824e9f6bde09668f22630496bf" isDir="False" isExpand="False" />
+        </node>
+        <node name="cd" isDir="True" isExpand="False">
+          <node name="e5fb1b6bf36c96851bde003e25173090837e7f" isDir="False" isExpand="False" />
+        </node>
+        <node name="ce" isDir="True" isExpand="False">
+          <node name="4edcfc88a2734253f18269320fe4fa32248eb0" isDir="False" isExpand="False" />
+        </node>
+        <node name="d0" isDir="True" isExpand="False">
+          <node name="e157f4ba8a095da91ffadc4c062c1184d2ad9b" isDir="False" isExpand="False" />
+        </node>
+        <node name="d2" isDir="True" isExpand="False">
+          <node name="63ac4391a5f423db4a4b4318ed92c595df3a09" isDir="False" isExpand="False" />
+          <node name="f8a8e920287e3329f14c7cbc66b89afbf235b0" isDir="False" isExpand="False" />
+        </node>
+        <node name="d3" isDir="True" isExpand="False">
+          <node name="1a145e80dee43a2bd4181ccf540d03434dee21" isDir="False" isExpand="False" />
+        </node>
+        <node name="d5" isDir="True" isExpand="False">
+          <node name="2d3281b56dc51c962e5a5fbb4f4fb70e9c800f" isDir="False" isExpand="False" />
+          <node name="4ad092710329fb01d07dbd626ef1caed59151c" isDir="False" isExpand="False" />
+          <node name="9fb0e305f58cda58aac2e172bfdb4498d9382e" isDir="False" isExpand="False" />
+          <node name="f35726dab1f931bd9eb41f45f1e1a4dca8372f" isDir="False" isExpand="False" />
+        </node>
+        <node name="d6" isDir="True" isExpand="False">
+          <node name="85f3d84670a4b1b0c596f8e76778bf5e03a549" isDir="False" isExpand="False" />
+        </node>
+        <node name="d7" isDir="True" isExpand="False">
+          <node name="f394d31d7e709f6cd01a93af624a7535a6bb65" isDir="False" isExpand="False" />
+        </node>
+        <node name="d8" isDir="True" isExpand="False">
+          <node name="7dd470bdb229f3043229b193cafb141f0dc8d2" isDir="False" isExpand="False" />
+        </node>
+        <node name="d9" isDir="True" isExpand="False">
+          <node name="6204828f22719c04039ee844bd350b13eaca37" isDir="False" isExpand="False" />
+          <node name="d053644d6f0b1c04f76c1a2f2a5847f44b21a1" isDir="False" isExpand="False" />
+        </node>
+        <node name="da" isDir="True" isExpand="False">
+          <node name="c0a67a3385401f1eee7375914cbdaf2d4ab3ed" isDir="False" isExpand="False" />
+        </node>
+        <node name="dc" isDir="True" isExpand="False">
+          <node name="436bf6b1b8b87857b18090b3e9072df9b37a4b" isDir="False" isExpand="False" />
+        </node>
+        <node name="dd" isDir="True" isExpand="False">
+          <node name="c1b95cb9d890812417cbce6d6cb531a4d180d3" isDir="False" isExpand="False" />
+        </node>
+        <node name="e0" isDir="True" isExpand="False">
+          <node name="fe38492630c4bc168dbb5d7a62753443b6c54e" isDir="False" isExpand="False" />
+        </node>
+        <node name="e1" isDir="True" isExpand="False">
+          <node name="502fb6ef2a19b74f1a08ebe95feb1cfe802b39" isDir="False" isExpand="False" />
+        </node>
+        <node name="e3" isDir="True" isExpand="False">
+          <node name="cb53e135e4ccd738d4eac2ffca147ab8c9757d" isDir="False" isExpand="False" />
+          <node name="cfa2bd9040c587fd8c1d431efda84a17035e06" isDir="False" isExpand="False" />
+        </node>
+        <node name="e4" isDir="True" isExpand="False">
+          <node name="d934a22f32e8f2825ac25fb29c46903201fba1" isDir="False" isExpand="False" />
+        </node>
+        <node name="e5" isDir="True" isExpand="False">
+          <node name="7cef160a1e46830c37696e577f58888b52b1c7" isDir="False" isExpand="False" />
+          <node name="8319687e250ba86837a06ad68a1e5767e483ca" isDir="False" isExpand="False" />
+          <node name="8954907771a5d1a16311ec39fc1dff4271f4ca" isDir="False" isExpand="False" />
+        </node>
+        <node name="e6" isDir="True" isExpand="False">
+          <node name="7c76baf07b6678ec6c3e6d2926b0933a6827e6" isDir="False" isExpand="False" />
+        </node>
+        <node name="e7" isDir="True" isExpand="False">
+          <node name="5648ff3070bd80c09af8151ea2ccb092a13398" isDir="False" isExpand="False" />
+        </node>
+        <node name="e9" isDir="True" isExpand="False">
+          <node name="94e34cd52162154051bb286b096338a17e65d7" isDir="False" isExpand="False" />
+        </node>
+        <node name="ee" isDir="True" isExpand="False">
+          <node name="c8d58c71a2a8349fd0942036689e6824958ba0" isDir="False" isExpand="False" />
+        </node>
+        <node name="ef" isDir="True" isExpand="False">
+          <node name="3cd976fd8b5e9539d0a6032571da266cd29271" isDir="False" isExpand="False" />
+        </node>
+        <node name="f1" isDir="True" isExpand="False">
+          <node name="fa8c217eabc245647d81cb100853b9ce387f53" isDir="False" isExpand="False" />
+        </node>
+        <node name="f2" isDir="True" isExpand="False">
+          <node name="beb58a687a8337718e751701b19c2c6e96d8bd" isDir="False" isExpand="False" />
+          <node name="f8afb1484ccac6930dd2dc8c7200b3a9219a30" isDir="False" isExpand="False" />
+        </node>
+        <node name="f3" isDir="True" isExpand="False">
+          <node name="5513082b5f6b66c42d02c2ecf97138edf96206" isDir="False" isExpand="False" />
+        </node>
+        <node name="f4" isDir="True" isExpand="False">
+          <node name="72a458eb071bdb57d13586055ee3b22ba61828" isDir="False" isExpand="False" />
+        </node>
+        <node name="f5" isDir="True" isExpand="False">
+          <node name="a67b9bd38eac69e11ae52283f360fa5ccbeed6" isDir="False" isExpand="False" />
+        </node>
+        <node name="f7" isDir="True" isExpand="False">
+          <node name="b89b7b96ffdac57e679fcefe154aa4b3732383" isDir="False" isExpand="False" />
+        </node>
+        <node name="f9" isDir="True" isExpand="False">
+          <node name="8a65c350c84a3f1bab5127ad33072ec9b81f48" isDir="False" isExpand="False" />
+        </node>
+        <node name="fa" isDir="True" isExpand="False">
+          <node name="7b205f3e4502ddaac3b8ffafe6699ed0587e32" isDir="False" isExpand="False" />
+        </node>
+        <node name="fb" isDir="True" isExpand="False">
+          <node name="45bf512b4f9cc07cf9821d33e75ae73a0558d3" isDir="False" isExpand="False" />
+        </node>
+        <node name="fc" isDir="True" isExpand="False">
+          <node name="d976b58b6b43b59e0fcb310f3dc30ecca4e865" isDir="False" isExpand="False" />
+        </node>
+        <node name="fd" isDir="True" isExpand="False">
+          <node name="075ae39c393a7bb79fcb6fe06e06dc7377158e" isDir="False" isExpand="False" />
+          <node name="c472f249adecda0ccd819e046067a279d35bcd" isDir="False" isExpand="False" />
+          <node name="e8f9f02f6af206aaedb5a082a2b141e7f91bdb" isDir="False" isExpand="False" />
+        </node>
+        <node name="info" isDir="True" isExpand="False">
+          <node name="packs" isDir="False" isExpand="False" />
+        </node>
+        <node name="pack" isDir="True" isExpand="False">
+          <node name="pack-5c76e1341eea4d6f3d2ded0d5caf83927804f2fb.idx" isDir="False" isExpand="False" />
+          <node name="pack-5c76e1341eea4d6f3d2ded0d5caf83927804f2fb.pack" isDir="False" isExpand="False" />
+        </node>
+      </node>
+      <node name="refs" isDir="True" isExpand="False">
+        <node name="heads" isDir="True" isExpand="False">
+          <node name="development" isDir="False" isExpand="False" />
+          <node name="master" isDir="False" isExpand="False" />
+        </node>
+        <node name="remotes" isDir="True" isExpand="False">
+          <node name="origin" isDir="True" isExpand="False">
+            <node name="development" isDir="False" isExpand="False" />
+            <node name="HEAD" isDir="False" isExpand="False" />
+            <node name="master" isDir="False" isExpand="False" />
+          </node>
+        </node>
+        <node name="tags" isDir="True" isExpand="False">
+          <node name="v0.0.0" isDir="False" isExpand="False" />
+          <node name="v0.1.0-beta.0" isDir="False" isExpand="False" />
+        </node>
+      </node>
+      <node name="COMMIT_EDITMSG" isDir="False" isExpand="False" />
+      <node name="config" isDir="False" isExpand="False" />
+      <node name="description" isDir="False" isExpand="False" />
+      <node name="FETCH_HEAD" isDir="False" isExpand="False" />
+      <node name="HEAD" isDir="False" isExpand="False" />
+      <node name="index" isDir="False" isExpand="False" />
+      <node name="ORIG_HEAD" isDir="False" isExpand="False" />
+      <node name="packed-refs" isDir="False" isExpand="False" />
+    </node>
+    <node name="GameData" isDir="True" isExpand="True">
+      <node name="CustomPlanetPack" isDir="True" isExpand="True">
+        <node name=".git" isDir="True" isExpand="False">
+          <node name="hooks" isDir="True" isExpand="False">
+            <node name="applypatch-msg.sample" isDir="False" isExpand="False" />
+            <node name="commit-msg.sample" isDir="False" isExpand="False" />
+            <node name="post-update.sample" isDir="False" isExpand="False" />
+            <node name="pre-applypatch.sample" isDir="False" isExpand="False" />
+            <node name="pre-commit.sample" isDir="False" isExpand="False" />
+            <node name="prepare-commit-msg.sample" isDir="False" isExpand="False" />
+            <node name="pre-push.sample" isDir="False" isExpand="False" />
+            <node name="pre-rebase.sample" isDir="False" isExpand="False" />
+            <node name="pre-receive.sample" isDir="False" isExpand="False" />
+            <node name="update.sample" isDir="False" isExpand="False" />
+          </node>
+          <node name="info" isDir="True" isExpand="False">
+            <node name="exclude" isDir="False" isExpand="False" />
+          </node>
+          <node name="logs" isDir="True" isExpand="False">
+            <node name="refs" isDir="True" isExpand="False">
+              <node name="heads" isDir="True" isExpand="False">
+                <node name="master" isDir="False" isExpand="False" />
+              </node>
+              <node name="remotes" isDir="True" isExpand="False">
+                <node name="origin" isDir="True" isExpand="False">
+                  <node name="HEAD" isDir="False" isExpand="False" />
+                  <node name="master" isDir="False" isExpand="False" />
+                </node>
+              </node>
+            </node>
+            <node name="HEAD" isDir="False" isExpand="False" />
+          </node>
+          <node name="objects" isDir="True" isExpand="False">
+            <node name="09" isDir="True" isExpand="False">
+              <node name="28d83cccf221e8eb2764011f9038bedf83b3bd" isDir="False" isExpand="False" />
+            </node>
+            <node name="42" isDir="True" isExpand="False">
+              <node name="fda1581f4b17f3d70f2277502bc18f897cf3ea" isDir="False" isExpand="False" />
+            </node>
+            <node name="54" isDir="True" isExpand="False">
+              <node name="8c9b10502eb15647193478a5be9031796121b1" isDir="False" isExpand="False" />
+            </node>
+            <node name="56" isDir="True" isExpand="False">
+              <node name="dc2cc1ed51d41ef38ff1247013b0b87b65545d" isDir="False" isExpand="False" />
+            </node>
+            <node name="6e" isDir="True" isExpand="False">
+              <node name="9760e580d523095674183a51950327fa3c3446" isDir="False" isExpand="False" />
+            </node>
+            <node name="75" isDir="True" isExpand="False">
+              <node name="9246ccc8b6df2241e2e7c230d9e93d2748649b" isDir="False" isExpand="False" />
+            </node>
+            <node name="9b" isDir="True" isExpand="False">
+              <node name="dde875e7429d11b476cefb1213bbb130f55bfe" isDir="False" isExpand="False" />
+            </node>
+            <node name="a0" isDir="True" isExpand="False">
+              <node name="8759869cc36bd39a28f6c022cd86bfd2e2d16b" isDir="False" isExpand="False" />
+            </node>
+            <node name="b6" isDir="True" isExpand="False">
+              <node name="66b86db187d6c66d2b8dc5dc9da868a4234497" isDir="False" isExpand="False" />
+            </node>
+            <node name="d5" isDir="True" isExpand="False">
+              <node name="89066cb89038944b45183282876135209f9a2f" isDir="False" isExpand="False" />
+            </node>
+            <node name="fe" isDir="True" isExpand="False">
+              <node name="f7ad4f5666a47490fab6b50d6b0861261747ab" isDir="False" isExpand="False" />
+            </node>
+            <node name="info" isDir="True" isExpand="False" />
+            <node name="pack" isDir="True" isExpand="False">
+              <node name="pack-cb7bad88e624b52227a1c05d1e6ceef348c3e8bd.idx" isDir="False" isExpand="False" />
+              <node name="pack-cb7bad88e624b52227a1c05d1e6ceef348c3e8bd.pack" isDir="False" isExpand="False" />
+            </node>
+          </node>
+          <node name="refs" isDir="True" isExpand="False">
+            <node name="heads" isDir="True" isExpand="False">
+              <node name="master" isDir="False" isExpand="False" />
+            </node>
+            <node name="remotes" isDir="True" isExpand="False">
+              <node name="origin" isDir="True" isExpand="False">
+                <node name="HEAD" isDir="False" isExpand="False" />
+                <node name="master" isDir="False" isExpand="False" />
+              </node>
+            </node>
+            <node name="tags" isDir="True" isExpand="False" />
+          </node>
+          <node name="config" isDir="False" isExpand="False" />
+          <node name="description" isDir="False" isExpand="False" />
+          <node name="FETCH_HEAD" isDir="False" isExpand="False" />
+          <node name="HEAD" isDir="False" isExpand="False" />
+          <node name="index" isDir="False" isExpand="False" />
+          <node name="ORIG_HEAD" isDir="False" isExpand="False" />
+          <node name="packed-refs" isDir="False" isExpand="False" />
+        </node>
+        <node name="Agencies" isDir="True" isExpand="True">
+          <node name="Agents.cfg" isDir="False" isExpand="False" />
+          <node name="KKS.dds" isDir="False" isExpand="False" />
+          <node name="KKS_scaled.truecolor" isDir="False" isExpand="False" />
+        </node>
+        <node name="Cache" isDir="True" isExpand="False" />
+        <node name="Configs" isDir="True" isExpand="False">
+          <node name="Barry" isDir="True" isExpand="False">
+            <node name="Barry.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Bauzer" isDir="True" isExpand="False">
+            <node name="Bauzer.cfg" isDir="False" isExpand="False" />
+            <node name="Scotty.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Cadrius" isDir="True" isExpand="False">
+            <node name="Humreth" isDir="True" isExpand="False">
+              <node name="Humreth.cfg" isDir="False" isExpand="False" />
+              <node name="Xorieth.cfg" isDir="False" isExpand="False" />
+            </node>
+            <node name="Cadrius.cfg" isDir="False" isExpand="False" />
+            <node name="Chasm.cfg" isDir="False" isExpand="False" />
+            <node name="Jobaneth.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Cube" isDir="True" isExpand="False">
+            <node name="Cube.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Eeloo" isDir="True" isExpand="False">
+            <node name="Oolee.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Oerus" isDir="True" isExpand="False">
+            <node name="Oerus.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Scypso" isDir="True" isExpand="False">
+            <node name="Scypso.cfg" isDir="False" isExpand="False" />
+          </node>
+          <node name="Serd" isDir="True" isExpand="False">
+            <node name="Dres.cfg" isDir="False" isExpand="False" />
+            <node name="Serd.cfg" isDir="False" isExpand="False" />
+          </node>
+        </node>
+        <node name="EasterEggs" isDir="True" isExpand="False">
+          <node name="EasterEggs.cfg" isDir="False" isExpand="False" />
+        </node>
+        <node name="Flags" isDir="True" isExpand="False">
+          <node name="Cadrius.png" isDir="False" isExpand="False" />
+          <node name="Humreth.png" isDir="False" isExpand="False" />
+          <node name="KKS.png" isDir="False" isExpand="False" />
+        </node>
+        <node name="LoadingScreens" isDir="True" isExpand="False">
+          <node name="PluginData" isDir="True" isExpand="False">
+            <node name="Logo" isDir="True" isExpand="False">
+              <node name="Logo Screen Here (still .dds).txt" isDir="False" isExpand="False" />
+            </node>
+            <node name="Insert Loading Screens Here (.dds).txt" isDir="False" isExpand="False" />
+          </node>
+          <node name="License.txt" isDir="False" isExpand="False" />
+          <node name="README.md" isDir="False" isExpand="False" />
+          <node name="Settings.cfg" isDir="False" isExpand="False" />
+          <node name="Sigma88LoadingScreens.dll" isDir="False" isExpand="False" />
+          <node name="tips.txt" isDir="False" isExpand="False" />
+        </node>
+        <node name="PluginData" isDir="True" isExpand="False">
+          <node name="Bauzer_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Bauzer_colormap.png" isDir="False" isExpand="False" />
+          <node name="Bauzer_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Bauzer_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Cadrius_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Cadrius_colormap.png" isDir="False" isExpand="False" />
+          <node name="Cadrius_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Cadrius_ring1.png" isDir="False" isExpand="False" />
+          <node name="chasm_biomemap.png" isDir="False" isExpand="False" />
+          <node name="chasm_colormap.png" isDir="False" isExpand="False" />
+          <node name="chasm_heightmap.png" isDir="False" isExpand="False" />
+          <node name="chasm_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Cube_colormap.png" isDir="False" isExpand="False" />
+          <node name="Cube_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Cube_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Humreth_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Humreth_colormap.png" isDir="False" isExpand="False" />
+          <node name="Humreth_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Humreth_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Jobaneth_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Jobaneth_colormap.png" isDir="False" isExpand="False" />
+          <node name="Jobaneth_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Jobaneth_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Jobaneth_waterTex.png" isDir="False" isExpand="False" />
+          <node name="Oerus_colormap.png" isDir="False" isExpand="False" />
+          <node name="Oerus_corona.png" isDir="False" isExpand="False" />
+          <node name="Oolee_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Oolee_colormap.png" isDir="False" isExpand="False" />
+          <node name="Oolee_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Scotty_colormap.png" isDir="False" isExpand="False" />
+          <node name="Scotty_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Scotty_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Scypso_colormap.png" isDir="False" isExpand="False" />
+          <node name="Scypso_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Scypso_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Xorieth_biomemap.png" isDir="False" isExpand="False" />
+          <node name="Xorieth_colormap.png" isDir="False" isExpand="False" />
+          <node name="Xorieth_heightmap.png" isDir="False" isExpand="False" />
+          <node name="Xorieth_normalmap.png" isDir="False" isExpand="False" />
+          <node name="Xorieth_waterTex.png" isDir="False" isExpand="False" />
+        </node>
+        <node name="CustomPlanetPack.version" isDir="False" isExpand="False" />
+        <node name="README.md" isDir="False" isExpand="False" />
+      </node>
+    </node>
+    <node name="LICENSE.txt" isDir="False" isExpand="False" />
+    <node name="README.md" isDir="False" isExpand="False" />
+    <node name="TODO.md" isDir="False" isExpand="False" />
+  </node>
+</project>

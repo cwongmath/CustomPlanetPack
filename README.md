@@ -1,3 +1,5 @@
+NOTE: This pack has been archived due to inactivity.
+
 # CustomPlanetPack
 by @cwongmath and @elephantae
 
